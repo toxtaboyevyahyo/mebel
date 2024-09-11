@@ -1,0 +1,33 @@
+.main {
+    margin-top: 100px;
+}
+
+.mains {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.main-content h1 {
+    font-size: 80px;
+    font-weight: 900;
+    color: brown;
+}
+
+.main-content p {
+    width: 300px;
+    line-height: 1.5;
+    font-size: 21px;
+    color: grey;
+}
+
+.main-content button {
+    background-color: blueviolet;
+    color: #fff;
+    padding: 16px 32px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+}

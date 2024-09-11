@@ -1,0 +1,57 @@
+.hero {
+  margin-top: 100px;
+}
+
+.span {
+  text-align: center;
+}
+
+.hero-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.subtitle {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.hero-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 50px;
+}
+
+.img {
+  border-radius: 40px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+
+.img:hover {
+  margin-top: 30px;
+}
+
+.btn1 {
+  padding: 16px 32px;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.hero-items p {
+  font-size: 35px;
+  color: blue;
+}
+
+.btn1:hover {
+  background-color: blue;
+}

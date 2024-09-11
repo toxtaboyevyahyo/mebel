@@ -1,0 +1,42 @@
+.header {
+  margin-top: 40px;
+  background-color: blue;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.header-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.span-btn {
+  margin-left: 150px;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  cursor: pointer;
+}
+
+.link {
+  font-size: 25px;
+  margin-left: 80px;
+}
+
+.link:hover {
+  color: #fff;
+}
+
+.header-title {
+  color: black;
+  cursor: pointer;
+}
+
+.header-title:hover {
+  color: #fff;
+}
+
+span:hover {
+  color: sandybrown;
+}
